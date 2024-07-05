@@ -5004,7 +5004,7 @@
                },
                {
                   "title":"Серія 9",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e09.simpsonsua.mvo_8385/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x09__todd_todd_why_hast_thou_forsaken_me__zabf04_50051/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"8385",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e09.simpsonsua.mvo_8385/screen.jpg",
                   "subtitle":""
