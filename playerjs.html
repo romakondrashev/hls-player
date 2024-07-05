@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>ytes</title> 
+        <meta charset="UTF-8">
+        <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+        <script src='playerjs.js' type='text/javascript'></script>
+         <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	</head>
+	<body>
+    <style>
+        html,body{
+            margin:0;padding:0;width:100%;height:100%;
+        }
+    </style>
+        
+    <div id="playerjs" style="width:100%;height:100%;"></div>
+        
+    <script type="text/javascript">
+    
+//     var video = document.getElementById('video');
+//   var videoSrc = 'https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s03e01.pilot.dub_2428/hls/index.m3u8';
+//   if (Hls.isSupported()) {
+//       alert('test');
+//     var hls = new Hls();
+//     hls.loadSource(videoSrc);
+//     hls.attachMedia(video);
+//   }
+  // HLS.js is not supported on platforms that do not have Media Source
+  // Extensions (MSE) enabled.
+  //
+  // When the browser has built-in HLS support (check using `canPlayType`),
+  // we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video
+  // element through the `src` property. This is using the built-in support
+  // of the plain video element, without using HLS.js.
+  //
+  // Note: it would be more normal to wait on the 'canplay' event below however
+  // on Safari (where you are most likely to find built-in HLS support) the
+  // video.src URL must be on the user-driven white-list before a 'canplay'
+  // event will be emitted; the last video event that can be reliably
+  // listened-for when the URL is not on the white-list is 'loadedmetadata'.
+//   else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+//     video.src = videoSrc;
+//   }
+            
+        var ps = location.href.substr(location.href.indexOf("html?")+5).split("&");
+            
+        var vs = {id:"playerjs", file:'playlist.txt', volume: 1.0};
+        /*var vs = {
+            id:"playerjs", 
+            file:"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s25e02.ispfilm.dub_3526/hls/index.m3u8",
+            "subtitle":"",
+            poster:"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s25e02.ispfilm.dub_3526/screen.jpg",
+            forbidden_quality:"Авто",
+            parent_domain:"uaserials.pro",
+            label:"uaserials",
+            preroll_deny:"",
+            embed:"//tortuga.wtf/vod/3526"
+        };*/
+            
+        // for(var i = 0; i<ps.length; i++){
+        //     var p = ps[i].substr(0,ps[i].indexOf("="));
+        //     var v = ps[i].substr(ps[i].indexOf("=")+1);
+        //     if(p!=v){
+        //         vs[p] = decodeURIComponent(v);
+        //     }
+        // }
+        console.log(vs);
+        
+
+
+            
+        var playerjs = new Playerjs(vs);
+        
+        
+            
+    </script>
+    <script>
+        
+            
+            // function PlayerjsEvents(event, id, info) {
+            //     if (event == "vast_Impression") {
+            //         var url = (window.location != window.parent.location) ?
+            //             document.referrer :
+            //             document.location.href;
+
+            //         var xhr = new XMLHttpRequest();
+
+            //         xhr.open("POST", "https://db.tortuga.wtf/engine/modules/playerjsstat/site/ajax.php");
+            //         xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            //         xhr.onload = function() {
+            //             if (xhr.status !== 200) {
+            //                 console.log('Request failed.  Returned status of ' + xhr.status);
+            //             }
+            //         };
+            //         xhr.send(encodeURI("action=save_hit&referer=" + encodeURI(url)));
+            //     }
+            // }
+        
+        
+    </script>
+</body>
+</html>
