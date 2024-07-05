@@ -4948,7 +4948,7 @@
             "folder":[
                {
                   "title":"Серія 1",
-                  "file":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e01.dub_2536/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new2/3101_dub_35840/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"2536",
                   "poster":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e01.dub_2536/screen.jpg",
                   "subtitle":""
@@ -4962,7 +4962,7 @@
                },
                {
                   "title":"Серія 3",
-                  "file":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e03.dub_2538/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new2/3103_dub_35842/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"2538",
                   "poster":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e03.dub_2538/screen.jpg",
                   "subtitle":""
@@ -4976,14 +4976,14 @@
                },
                {
                   "title":"Серія 5",
-                  "file":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e05.simpsonsua.tv.dub_4359/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x05__gorillas_on_the_mast__yabf20__50047/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"4359",
                   "poster":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e05.simpsonsua.tv.dub_4359/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 6",
-                  "file":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e06.simpsonsua.mvo_5712/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x06__marge_the_lumberjill__zabf02_50048/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"5712",
                   "poster":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s31e06.simpsonsua.mvo_5712/screen.jpg",
                   "subtitle":""
