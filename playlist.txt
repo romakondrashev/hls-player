@@ -5011,42 +5011,42 @@
                },
                {
                   "title":"Серія 10",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e10.simpsonsua.mvo_10025/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x10__bobby_its_cold_outside__zabf01_50052/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"10025",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e10.simpsonsua.mvo_10025/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 11",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e11.simpsonsua.mvo_12058/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x11__hail_to_the_teeth__zabf05_50053/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"12058",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e11.simpsonsua.mvo_12058/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 12",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e12.simpsonsua.tv.dub_15860/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x12__the_miseducation_of_lisa_simpson__zabf06_50054/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"15860",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e12.simpsonsua.tv.dub_15860/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 13",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e13.simpsonsua.tv.dub_17161/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x13__frinkcoin__zabf07_50055/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"17161",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e13.simpsonsua.tv.dub_17161/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 14",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/he.simpsons.s31e14.simpsonsua.mvo_19033/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x14__bart_the_bad_guy__zabf08_50056/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"19033",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/he.simpsons.s31e14.simpsonsua.mvo_19033/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 15",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e15.simpsonsua.tv.mvo_19096/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x15__screenless__zabf09_50057/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"19096",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e15.simpsonsua.tv.mvo_19096/screen.jpg",
                   "subtitle":""
@@ -5074,14 +5074,14 @@
                },
                {
                   "title":"Серія 19",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e19.simpsonsua.mvo_34623/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x19__warrin_priests_part_one__zabf12_50061/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"34623",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e19.simpsonsua.mvo_34623/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 20",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e20.simpsonsua.mvo_35121/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x20__warrin_priests_part_two__zabf13_50062/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"35121",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e20.simpsonsua.mvo_35121/screen.jpg",
                   "subtitle":""
@@ -5095,7 +5095,7 @@
                },
                {
                   "title":"Серія 22",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e22.simpsonsua.mvo_36772/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/smpsoni_s31/31x22__the_way_of_the_dog__zabf16_50064/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"36772",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s31e22.simpsonsua.mvo_36772/screen.jpg",
                   "subtitle":""
@@ -5107,91 +5107,91 @@
             "folder":[
                {
                   "title":"Серія 1",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e01.simpsonsua.mvo_59641/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e01_2020_webrip_1080p_ukr.eng_simpsonsua.tv_125742/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59641",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e01.simpsonsua.mvo_59641/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 2",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e02.simpsonsua.mvo_59642/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e02_2020_webrip_1080p_ukr.eng_simpsonsua.tv_125988/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59642",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e02.simpsonsua.mvo_59642/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 3",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e03.simpsonsua.mvo_59643/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e03_2020_webrip_1080p_ukr.eng_simpsonsua.tv_126046/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59643",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e03.simpsonsua.mvo_59643/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 4",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e04.simpsonsua.mvo_59644/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e04_2020_webrip_1080p_ukr.eng_simpsonsua.tv_127279/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59644",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e04.simpsonsua.mvo_59644/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 5",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e05.simpsonsua.mvo_59645/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e05_2020_webrip_1080p_ukr.eng_simpsonsua.tv_129223/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59645",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e05.simpsonsua.mvo_59645/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 6",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e06.simpsonsua.mvo_59646/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e06_2020_webrip_1080p_ukr.eng_simpsonsua.tv_130589/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59646",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e06.simpsonsua.mvo_59646/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 7",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e07.simpsonsua.mvo_59647/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e07_2020_webrip_1080p_ukr.eng_simpsonsua.tv_131298/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59647",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e07.simpsonsua.mvo_59647/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 8",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e08.simpsonsua.mvo_59648/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s32e08_2020_webrip_1080p_ukr.eng_simpsonsua.tv_132353/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59648",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e08.simpsonsua.mvo_59648/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 9",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e09.simpsonsua.mvo_59649/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e09_2020_webrip_1080p_ukr.eng_simpsonsua.tv_96806/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59649",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e09.simpsonsua.mvo_59649/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 10",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e10.simpsonsua.mvo_59650/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e10_2020_webrip_1080p_ukr.eng_simpsonsua.tv_96807/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59650",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e10.simpsonsua.mvo_59650/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 11",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/new/the.simpsons.s32e11.simpsonsua.mvo_53523/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e11_2021_webrip_1080p_ukr.eng_simpsonsua.tv_96808/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"53523",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/new/the.simpsons.s32e11.simpsonsua.mvo_53523/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 12",
-                  "file":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s32e12.simpsonsua.mvo_55648/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e12_2021_webrip_1080p_ukr.eng_simpsonsua.tv_96809/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"55648",
                   "poster":"https://blackpearl.tortuga.wtf/content/stream/serials/the.simpsons.s32e12.simpsonsua.mvo_55648/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 13",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/new/the.simpsons.s32e13.simpsonsua.mvo_56063/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e13_2021_webrip_1080p_ukr.eng_simpsonsua.tv_96810/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"56063",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/new/the.simpsons.s32e13.simpsonsua.mvo_56063/screen.jpg",
                   "subtitle":""
@@ -5205,7 +5205,7 @@
                },
                {
                   "title":"Серія 15",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/new/the.simpsons.s32e15.simpsonsua.mvo_57096/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e15_2021_webrip_1080p_ukr.eng_simpsonsua.tv_96812/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"57096",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/new/the.simpsons.s32e15.simpsonsua.mvo_57096/screen.jpg",
                   "subtitle":""
@@ -5219,7 +5219,7 @@
                },
                {
                   "title":"Серія 17",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s32e17.simpsonsua.mvo_57802/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e17_2021_webrip_1080p_ukr.eng_simpsonsua.tv_96814/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"57802",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/serials/the.simpsons.s32e17.simpsonsua.mvo_57802/screen.jpg",
                   "subtitle":""
@@ -5233,7 +5233,7 @@
                },
                {
                   "title":"Серія 19",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e19.simpsonsua.mvo_58347/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e19_2021_webrip_1080p_ukr.eng_simpsonsua.tv_96816/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"58347",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e19.simpsonsua.mvo_58347/screen.jpg",
                   "subtitle":""
@@ -5247,7 +5247,7 @@
                },
                {
                   "title":"Серія 21",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e21.simpsonsua.mvo_59177/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s32/the_simpsons__s32e21_2021_webrip_1080p_ukr.eng_simpsonsua.tv_96818/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"59177",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s32e21.simpsonsua.mvo_59177/screen.jpg",
                   "subtitle":""
@@ -5266,14 +5266,14 @@
             "folder":[
                {
                   "title":"Серія 1",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e01.simpsonsua.mvo_67542/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e01_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56593/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"67542",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e01.simpsonsua.mvo_67542/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 2",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e02.simpsonsua.mvo_68007/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e02_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56594/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"68007",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e02.simpsonsua.mvo_68007/screen.jpg",
                   "subtitle":""
@@ -5287,7 +5287,7 @@
                },
                {
                   "title":"Серія 4",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e04.simpsonsua.mvo_68868/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e04_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56596/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"68868",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e04.simpsonsua.mvo_68868/screen.jpg",
                   "subtitle":""
@@ -5301,42 +5301,42 @@
                },
                {
                   "title":"Серія 6",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e06.simpsonsua.mvo_69903/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e06_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56598/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"69903",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e06.simpsonsua.mvo_69903/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 7",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e07.ci.mvo_70102/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e07_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56599/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"70102",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e07.ci.mvo_70102/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 8",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e08.ci.mvo_70371/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e08_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56600/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"70371",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e08.ci.mvo_70371/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 9",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e09.simpsonsua.mvo_70754/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e09_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56601/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"70754",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e09.simpsonsua.mvo_70754/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 10",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e10.simpsonsua.mvo_71944/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e10_2021_webrip_1080p_ukr.eng_simpsonsua.tv_56602/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"71944",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e10.simpsonsua.mvo_71944/screen.jpg",
                   "subtitle":""
                },
                {
                   "title":"Серія 11",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e11.simpsonsua.mvo_72296/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons__s33e11_2022_webrip_1080p_ukr.eng_simpsonsua.tv_56603/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"72296",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e11.simpsonsua.mvo_72296/screen.jpg",
                   "subtitle":""
@@ -5350,7 +5350,7 @@
                },
                {
                   "title":"Серія 13",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e13.simpsonsua.mvo_75433/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/films/the_simpsons__s33e13_2022_webrip_1080p_ukr.eng_simpsonsua.tv_57094/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"75433",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e13.simpsonsua.mvo_75433/screen.jpg",
                   "subtitle":""
@@ -5392,7 +5392,7 @@
                },
                {
                   "title":"Серія 19",
-                  "file":"https://qeruya.cyou/content/stream/serials/the_simpsons__s33e19_2022_webrip_1080p_ukr.eng_simpsonsua.tv_58941/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s33e19_2022_webrip_1080p_ukr.eng_simpsonsua.tv_58941/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"58941",
                   "poster":"https://qeruya.cyou/content/stream/serials/the_simpsons__s33e19_2022_webrip_1080p_ukr.eng_simpsonsua.tv_58941/screen.jpg",
                   "subtitle":""
@@ -5413,7 +5413,7 @@
                },
                {
                   "title":"Серія 22",
-                  "file":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e22.simpsonsua.mvo_76899/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s33e22_2022_webrip_1080p_ukr.eng_simpsonsua.tv_61529/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"76899",
                   "poster":"https://sparrow.tortuga.wtf/content/stream/chest/the.simpsons.s33e22.simpsonsua.mvo_76899/screen.jpg",
                   "subtitle":""
@@ -5425,70 +5425,70 @@
             "folder":[
                {
                   "title":"Серія 1",
-                  "file":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e01_2022_webrip_1080p_ukr_eng_simpsonsua_tv_75967/hls/480/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e01_2022_webrip_1080p_ukr_eng_simpsonsua_tv_75967/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"341",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e01_2022_webrip_1080p_ukr_eng_simpsonsua_tv_75967/screen.jpg",
                   "subtitle":""
                },
 		{
                   "title":"Серія 2",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons_s34e02_2022_webrip_1080p_ukr_eng_simpsonsua_tv_2_77169/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e02_2022_webrip_1080p_ukr_eng_simpsonsua_tv_2_77169/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"342",
                   "poster":"https://qeruya.cyou/content/stream/serials/the_simpsons_s34e02_2022_webrip_1080p_ukr_eng_simpsonsua_tv_2_77169/screen.jpg",
                   "subtitle":""
                },
 		{
                   "title":"Серія 3",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons_s34e03_2022_webrip_1080p_ukr_eng_simpsonsua_tv_77001/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e03_2022_webrip_1080p_ukr_eng_simpsonsua_tv_77001/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"343",
                   "poster":"https://qeruya.cyou/content/stream/serials/the_simpsons_s34e03_2022_webrip_1080p_ukr_eng_simpsonsua_tv_77001/screen.jpg",
                   "subtitle":""
                },
 		{
                   "title":"Серія 4",
-                  "file":"https://qeruya.cyou/video/serials/the_simpsons_s34e04_2022_webrip_1080p_ukr_eng_simpsonsua_tv_77581/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e04_2022_webrip_1080p_ukr_eng_simpsonsua_tv_77581/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"344",
                   "poster":"https://qeruya.cyou/content/stream/serials/the_simpsons_s34e04_2022_webrip_1080p_ukr_eng_simpsonsua_tv_77581/screen.jpg",
                   "subtitle":""
                },
 		{
                   "title":"Серія 5",
-                  "file":"https://qeruya.cyou/video/serials/the_simpsons_s34e05_2022_webrip_1080p_ukr_eng_simpsonsua_tv_78004/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e05_2022_webrip_1080p_ukr_eng_simpsonsua_tv_78004/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"345",
                   "poster":"https://qeruya.cyou/content/stream/serials/the_simpsons_s34e05_2022_webrip_1080p_ukr_eng_simpsonsua_tv_78004/screen.jpg",
                   "subtitle":""
                },
 		{
                   "title":"Серія 6",
-                  "file":"https://qeruya.cyou/video/serials/the_simpsons_s34e06_2022_webrip_1080p_ukr_eng_simpsonsua_tv_78273/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e06_2022_webrip_1080p_ukr_eng_simpsonsua_tv_78273/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"346",
                   "poster":"https://qeruya.cyou/content/stream/serials/the_simpsons_s34e06_2022_webrip_1080p_ukr_eng_simpsonsua_tv_78273/screen.jpg",
                   "subtitle":""
                },
 		{
                   "title":"Серія 7",
-                  "file":"https://s2.ashdi.vip/content/stream/new/the_simpsons_s34e07_2022_webrip_1080p_ukr_eng_simpsonsua_tv_79416/hls/1080/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/new/the_simpsons_s34e07_2022_webrip_1080p_ukr_eng_simpsonsua_tv_79416/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"347",
                   "poster":"https://s2.ashdi.vip/content/stream/new/the_simpsons_s34e07_2022_webrip_1080p_ukr_eng_simpsonsua_tv_79416/screen.jpg",
                   "subtitle":""
                },
 {
                   "title":"Серія 8",
-                  "file":"https://s2.ashdi.vip/vid18/serials/the_simpsons_s34e08_2022_webrip_1080p_ukr_eng_simpsonsua_tv_80568/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e08_2022_webrip_1080p_ukr_eng_simpsonsua_tv_80568/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"348",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e08_2022_webrip_1080p_ukr_eng_simpsonsua_tv_80568/screen.jpg",
                   "subtitle":""
                },
 {
                   "title":"Серія 9",
-                  "file":"https://s2.ashdi.vip/vid26/serials/the_simpsons_s34e09_2022_webrip_1080p_ukr_eng_simpsonsua_tv_81203/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e09_2022_webrip_1080p_ukr_eng_simpsonsua_tv_2_83217/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"349",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e09_2022_webrip_1080p_ukr_eng_simpsonsua_tv_81203/screen.jpg",
                   "subtitle":""
                },
 {
                   "title":"Серія 10",
-                  "file":"https://s2.ashdi.vip/vid2/serials/the_simpsons_s34e10_2022_webrip_1080p_ukr_eng_simpsonsua_tv_81832/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e10_2022_webrip_1080p_ukr_eng_simpsonsua_tv_2_83585/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3410",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e10_2022_webrip_1080p_ukr_eng_simpsonsua_tv_81832/screen.jpg",
                   "subtitle":""
@@ -5496,7 +5496,7 @@
                {
                   "title":"Серія 11",
                   "file-full":"https://s2.ashdi.vip/vid11/serials/the_simpsons_s34e11_2022_webrip_1080p_ukr_eng_simpsonsua_tv_82854/hls/index.m3u8",
-                  "file":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e11_2022_webrip_1080p_ukr_eng_simpsonsua_tv_82854/hls/1080/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e11_2022_webrip_1080p_ukr_eng_simpsonsua_tv_82854/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3411",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e11_2022_webrip_1080p_ukr_eng_simpsonsua_tv_82854/screen.jpg",
                   "subtitle":""
@@ -5504,7 +5504,7 @@
                {
                   "title":"Серія 12",
                   "file-full":"https://s2.ashdi.vip/vid21/serials/the_simpsons_s34e12_2023_webrip_1080p_ukr_eng_simpsonsua_tv_84147/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons_s34e12_2023_webrip_1080p_ukr_eng_simpsonsua_tv_84147/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e12_2023_webrip_1080p_ukr_eng_simpsonsua_tv_84147/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3412",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e12_2023_webrip_1080p_ukr_eng_simpsonsua_tv_84147/screen.jpg",
                   "subtitle":""
@@ -5512,7 +5512,7 @@
                {
                   "title":"Серія 13",
                   "file-full":"https://s2.ashdi.vip/video5/serials/the_simpsons_s34e13_2023_webrip_1080p_ukr_eng_simpsonsua_tv_87762/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons_s34e13_2023_webrip_1080p_ukr_eng_simpsonsua_tv_87762/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e13_2023_webrip_1080p_ukr_eng_simpsonsua_tv_87762/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3413",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e13_2023_webrip_1080p_ukr_eng_simpsonsua_tv_87762/screen.jpg",
                   "subtitle":""
@@ -5520,7 +5520,7 @@
                {
                   "title":"Серія 14",
                   "file-full":"https://s2.ashdi.vip/video5/serials/the_simpsons_s34e14_2023_webrip_1080p_ukr_eng_simpsonsua_tv_88572/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons_s34e14_2023_webrip_1080p_ukr_eng_simpsonsua_tv_88572/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons_s34e14_2023_webrip_1080p_ukr_eng_simpsonsua_tv_88572/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3414",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons_s34e14_2023_webrip_1080p_ukr_eng_simpsonsua_tv_88572/screen.jpg",
                   "subtitle":""
@@ -5528,7 +5528,7 @@
                {
                   "title":"Серія 15",
                   "file-full":"https://s2.ashdi.vip/video5/serials/the_simpsons__s34e15_2023_webrip_1080p_ukr.eng_simpsonsua.tv_1_89341/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons__s34e15_2023_webrip_1080p_ukr.eng_simpsonsua.tv_1_89341/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s34e15_2023_webrip_1080p_ukr.eng_simpsonsua.tv_1_89341/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3415",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons__s34e15_2023_webrip_1080p_ukr.eng_simpsonsua.tv_1_89341/screen.jpg",
                   "subtitle":""
@@ -5536,7 +5536,7 @@
                {
                   "title":"Серія 16",
                   "file-full":"https://s2.ashdi.vip/video5/serials/the_simpsons__s34e16_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89340/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons__s34e16_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89340/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s34e16_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89340/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3416",
                   "poster":"https://s1.ashdi.vip/content/stream/serials/the_simpsons__s34e16_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89340/screen.jpg",
                   "subtitle":""
@@ -5544,7 +5544,8 @@
                {
                   "title":"Серія 17",
                   "file-full":"https://s2.ashdi.vip/video5/serials/the_simpsons__s34e17_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89878/hls/index.m3u8",
-                  "file":"https://s2.ashdi.vip/content/stream/serials/the_simpsons__s34e17_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89878/hls/480/index.m3u8",
+                  "file":"
+https://ashdi.vip/video6/1/serials/the_simpsons__s34e17_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89878/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3417",
                   "poster":"https://s2.ashdi.vip/content/stream/serials/the_simpsons__s34e17_2023_webrip_1080p_ukr.eng_simpsonsua.tv_89878/screen.jpg",
                   "subtitle":""
@@ -5552,7 +5553,7 @@
                {
                   "title":"Серія 18",
                   "file-full":"https://s2.ashdi.vip/video20/serials/the_simpsons__s34e18_2023_webrip_1080p_ukr.eng_simpsonsua.tv_91998/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons__s34e18_2023_webrip_1080p_ukr.eng_simpsonsua.tv_91998/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s34e18_2023_webrip_1080p_ukr.eng_simpsonsua.tv_91998/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3418",
                   "poster":"https://s1.ashdi.vip/content/stream/serials/the_simpsons__s34e18_2023_webrip_1080p_ukr.eng_simpsonsua.tv_91998/screen.jpg",
                   "subtitle":""
@@ -5560,7 +5561,7 @@
                {
                   "title":"Серія 19",
                   "file-full":"https://s2.ashdi.vip/video20/serials/the_simpsons__s34e19_2023_webrip_1080p_ukr.eng_simpsonsua.tv_92500/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons__s34e19_2023_webrip_1080p_ukr.eng_simpsonsua.tv_92500/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s34e19_2023_webrip_1080p_ukr.eng_simpsonsua.tv_92500/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3419",
                   "poster":"https://s1.ashdi.vip/content/stream/serials/the_simpsons__s34e19_2023_webrip_1080p_ukr.eng_simpsonsua.tv_92500/screen.jpg",
                   "subtitle":""
@@ -5568,7 +5569,7 @@
                {
                   "title":"Серія 20",
                   "file-full":"https://s2.ashdi.vip/video20/serials/the_simpsons__s34e20_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93134/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons__s34e20_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93134/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s34e20_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93134/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3420",
                   "poster":"https://s1.ashdi.vip/content/stream/serials/the_simpsons__s34e20_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93134/screen.jpg",
                   "subtitle":""
@@ -5576,7 +5577,7 @@
                {
                   "title":"Серія 21",
                   "file-full":"https://s2.ashdi.vip/video20/serials/the_simpsons__s34e21_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93442/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons__s34e21_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93442/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s34e21_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93442/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3421",
                   "poster":"https://s1.ashdi.vip/content/stream/serials/the_simpsons__s34e21_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93442/screen.jpg",
                   "subtitle":""
@@ -5584,7 +5585,7 @@
                {
                   "title":"Серія 22",
                   "file-full":"https://s2.ashdi.vip/video20/serials/the_simpsons__s34e22_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93668/hls/index.m3u8",
-                  "file":"https://s1.ashdi.vip/video20/serials/the_simpsons__s34e22_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93668/hls/index.m3u8",
+                  "file":"https://ashdi.vip/video6/1/serials/the_simpsons__s34e22_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93668/hls/1080/BKiPlHaOkftdnQfhAYU=/index.m3u8",
                   "id":"3422",
                   "poster":"https://s1.ashdi.vip/content/stream/serials/the_simpsons__s34e22_2023_webrip_1080p_ukr.eng_simpsonsua.tv_93668/screen.jpg",
                   "subtitle":""
