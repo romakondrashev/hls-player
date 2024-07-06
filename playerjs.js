@@ -12843,9 +12843,12 @@ function Playerjs(options) {
                 hls.subtitleDisplay = false
             }
             hls.on(Hls.Events.ERROR, function(event, data) {
+
                 v.log == 1 ? console.log(data) : '';
                 o.hlserror = data;
+                
                 if (data.fatal) {
+                    
                     switch (data.type) {
                         case Hls.ErrorTypes.NETWORK_ERROR:
                             if (v.livewakeup == 1) {
