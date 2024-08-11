@@ -5639,7 +5639,7 @@ https://ashdi.vip/video6/1/serials/the_simpsons__s34e17_2023_webrip_1080p_ukr.en
                },
                {
                   "title":"Серія 7",
-                  "file":"https://ashdi.vip/video11/1/serials/the_simpsons__s35e07_2023_webrip_1080p_ukr.eng_simpsonsua.tv_109917/hls/BKiBlHaKkftdmA/hAok=/index.m3u8",
+                  "file":"https://ashdi.vip/video11/1/serials/the_simpsons__s35e07_2023_webrip_1080p_ukr.eng_simpsonsua.tv_109917/hls/1080/BKiBlHaKkftdmA/hAok=/index.m3u8",
                   "id":"357",
                   "poster":"https://jk19ocmjeoyql3tj.ashdi.vip/content/stream/serials/the_simpsons__s35e07_2023_webrip_1080p_ukr.eng_simpsonsua.tv_109917/screen.jpg",
                   "subtitle":""
