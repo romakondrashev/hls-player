@@ -5644,8 +5644,6 @@ https://ashdi.vip/video6/1/serials/the_simpsons__s34e17_2023_webrip_1080p_ukr.en
                   "poster":"https://jk19ocmjeoyql3tj.ashdi.vip/content/stream/serials/the_simpsons__s35e07_2023_webrip_1080p_ukr.eng_simpsonsua.tv_109917/screen.jpg",
                   "subtitle":""
                }
-
-
             ]
         }
       ]
